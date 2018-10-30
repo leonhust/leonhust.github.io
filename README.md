@@ -18,10 +18,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-* test1
-* test2
-  + sub1
-  + sub2
+
 
 1. Numbered
 2. List
@@ -30,6 +27,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+* test1
+* test2
+  + sub1
+  + sub2
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
