@@ -18,6 +18,11 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+* test1
+* test2
+  + sub1
+  + sub2
+
 1. Numbered
 2. List
 
